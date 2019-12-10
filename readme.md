@@ -1,4 +1,4 @@
-# DS18 Open Lab | Build your first Chatbot with Watson and WhatsApp
+# DS19 Open Lab | Build your first Chatbot with Watson and WhatsApp
 
 This repository contains the lab for creating a chatbot by using IBM Watson Assistant service, Twilio and WhatsApp. It is one of the labs brought to you by Miracle's Innovation Labs.
 
@@ -16,9 +16,9 @@ The following are the technologies that are used in this lab. Any prior knowledg
 
 ## Important Links
 
-• Access IBM Bluemix - https://console.ng.bluemix.net/
+• Access IBM Bluemix - https://cloud.ibm.com/login
 
-• Watson Assistant Service Documentation - https://console.bluemix.net/docs/services/assistant/index.html#about
+• Watson Assistant Service Documentation - https://cloud.ibm.com/docs/services/assistant?topic=assistant-getting-started
 
 • Access to Twilio - https://www.twilio.com/try-twilio
 
